@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I'm **Pope Lumar Maksym**, a passionate **full-stack developer in the making** 🚀. I specialize in **frontend development** 🎨 and am diving deep into **backend technologies** 🖥️.<br><br>
+Hey there! I'm **Ahura Pope**, a passionate **full-stack developer in the making** 🚀. I specialize in **frontend development** 🎨 and am diving deep into **backend technologies** 🖥️.<br><br>
 💡 I love working on innovative projects that blend tech and impact, especially in **AgriTech 🌱, EdTech 📚, and Telemedicine 🏥**.<br><br>
 ⚡ Currently, I'm:<br>
 - 🖥️ Learning **backend development** (Node.js, Express, MySQL).
